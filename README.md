@@ -1,4 +1,4 @@
-![MasterHead](https://art.pixilart.com/cb97514d85c12ba.gif)
+![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif))
 <h1 align="center">Hi 👋, I'm Maneesha Yasinth Gunarthna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
