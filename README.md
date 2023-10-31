@@ -1,3 +1,4 @@
+![MasterHead](https://art.pixilart.com/cb97514d85c12ba.gif)
 <h1 align="center">Hi 👋, I'm Maneesha Yasinth Gunarthna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
