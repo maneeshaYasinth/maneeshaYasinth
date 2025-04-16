@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend developing <br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning backend developing, AI/ML & C#
+🔭 I’m currently working on Cloud Computing(aws) <br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Cloud Computing & Linux 
 
 
 ## 🌐 Socials:
