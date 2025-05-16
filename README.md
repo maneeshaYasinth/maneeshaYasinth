@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Cloud Computing (AWS)  
 👯 I’m looking to collaborate on new projects  
-🌱 I’m currently learning Cloud Computing & Linux  
+🌱 I’m currently learning Cloud Computing & IaC 
 🚀 Check out my [Cloud Engineering Journey](https://www.notion.so/Maneesha-s-Cloud-Engineering-Journey-1d7fece24684804989fcf8099dc21526?pvs=4)
 
 
