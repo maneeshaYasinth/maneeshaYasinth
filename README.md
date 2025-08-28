@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud Computing (AWS)<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Cloud Computing & IaC 
+🔭 I’m currently working on Cloud Computing (AWS)<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Cloud Computing,IaC & Linux 
 
 
 ## 🌐 Socials:
