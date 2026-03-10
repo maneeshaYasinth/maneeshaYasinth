@@ -170,6 +170,7 @@ status:     Always building, always learning ☁️
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maneeshaYasinth)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maneeshayasinthgunarathna@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maneeshaYasinth)
+[![Website](https://img.shields.io/badge/Website-maneeshayasinth.site-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maneeshayasinth.site)
 
 </div>
 
